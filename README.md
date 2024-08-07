@@ -1,7 +1,7 @@
-# Exemplos Práticos para o Curso de Cybersecurity (Hacker Mindset)
+# Exemplos Práticos para Curso de Cybersecurity
 
 ## Descrição
-Este repositório contém exemplos práticos de códigos e recursos utilizados no curso de Cybersecurity (Hacker Mindset). Cada diretório corresponde a uma aula ou tópico específico abordado no curso, fornecendo uma compreensão prática dos conceitos teóricos ensinados.
+Este repositório contém exemplos práticos de códigos e recursos utilizados no curso de Cybersecurity. Cada diretório corresponde a uma aula ou tópico específico abordado no curso, fornecendo uma compreensão prática dos conceitos teóricos ensinados.
 
 ## Conteúdo
 + S2 Aula 1: Fundamentos de Criptografia e Hashing
